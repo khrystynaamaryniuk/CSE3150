@@ -3,7 +3,7 @@
   DOCTest unit tests
  */
 
-#include "../include/doctest.h"
+#include "./include/doctest.h"
 #include "prefixSum.h"
 #include "fisherYates.h" 
 
